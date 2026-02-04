@@ -1,0 +1,7 @@
+{
+  "name": "FreelancePortfolio Generator",
+  "description": "A high-end portfolio builder for freelancers across photography, development, writing, and more, featuring AI-powered content enhancement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
